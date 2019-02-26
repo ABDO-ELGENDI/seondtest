@@ -6,3 +6,4 @@
  console.log("with the name of allah");
 
  console.log("hi");
+ console.log("hi,too");
