@@ -4,3 +4,5 @@
 //  res1.end('with the name of allah');
 // }).listen(8000);
  console.log("with the name of allah");
+
+ console.log("hi");
